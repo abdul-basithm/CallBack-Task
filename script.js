@@ -52,7 +52,7 @@ countOne(function () {
                             countEight(function () {
                                 countNine(function () {
                                     countTen(function () {
-                                        setTimeout(function () { count.textContent = "Happy Independance Day ! ! ! ! ! " }, 11000)
+                                        setTimeout(function () { count.textContent = "Happy Independence Day ! ! ! ! ! " }, 11000)
                                     })
                                 })
                             })
